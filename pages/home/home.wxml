@@ -1,0 +1,5 @@
+<!--home/home.wxml-->
+<!-- <text>home/home.wxml</text> -->
+<view>Hello Codewhy</view>
+<text class="title">Hello World</text>
+<button size="mini">按钮</button>
